@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="BLACK">
+
+        <item>아이스 바닐라 라떼 1잔, 따뜻한 아메리카노 2잔, \n따뜻한 카페 라떼 1잔, 핫초코 1잔 주세요.
+    </item>
+        <item>어제 제가 시킨 메뉴가 뭐게~요?</item>
+
+    </string-array>
+
+</resources>
